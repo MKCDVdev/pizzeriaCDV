@@ -24,7 +24,7 @@
 
 ## Napoje
 
-<img src = "podawanie-coli-z-butelki-szklanki-pelnej-lodu.jpg" width = 600>
+<img src = "img/podawanie-coli-z-butelki-szklanki-pelnej-lodu.jpg" width = 600>
 
 |Lp. |Napój:| Cena:|
 |----|-----------------|---------------------|
