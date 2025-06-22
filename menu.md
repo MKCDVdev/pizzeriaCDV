@@ -22,6 +22,15 @@
 |2. |**Mirafiori**| ``kurczak, szpinak, suszone pomidory``|  45zł|
 |3. |**Quattro Stagioni**| ``szynka prosciutto cotto DOP, pieczarki, krewetki, małże, szparagi``|  50zł|
 
+## Wegetariańskie
+
+<img src = "img/saahil-khatkhate-kfDsMDyX1K0-unsplash.jpg" width = 600>
+
+|Lp. |Pizza:| Składniki:| Cena:|
+|----|-----------------|------|------------------------------------------------------------|
+|1. |**Torino**| ``pieczarki, cebula``|  25zł|
+|2. |**Capresse**| ``pomidor, świeża bazylia, balsamico``|  35zł|
+
 ## Napoje
 
 <img src = "img/podawanie-coli-z-butelki-szklanki-pelnej-lodu.jpg" width = 600>
